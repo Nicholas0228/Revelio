@@ -1,0 +1,15 @@
+accelerate==0.17.1
+diffusers @ git+https://github.com/huggingface/diffusers@79eb3d07d07a2dada172c5958d6fca478c860f16
+advertorch @ git+https://github.com/BorealisAI/advertorch.git
+Pillow==9.4.0
+PyYAML==6.0
+torch
+torchvision
+tqdm==4.64.1
+transformers==4.26.1
+typing-extensions==4.5.0
+bitsandbytes
+scikit-learn
+scipy
+-e git+https://github.com/openai/CLIP.git@main#egg=clip
+-e git+https://github.com/CompVis/taming-transformers.git@master#egg=taming-transformers
