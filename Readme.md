@@ -5,7 +5,7 @@
 <br>
 </p>
  
-[![arXiv](https://img.shields.io/badge/arXiv-????-red.svg)](https://arxiv.org/abs/????)
+[![arXiv](https://img.shields.io/badge/arXiv-2403.11162-red.svg)](https://arxiv.org/abs/2403.11162)
 
 
 <p align="center">
@@ -14,12 +14,12 @@
 
 
 > Revelio's Effects on WikiArt Dataset. **The first row:** Recovered images on data used during fine-tuning (membership data).
-**The second row:**  Recovered images on not used during fine-tuning (holdout data). Revelio provides visualizable identification of copyright infringements.
+**The second row:**  Recovered images on data not used during fine-tuning (holdout data). Revelio provides visualizable identification of copyright infringements.
 
 
 ## What is Revelio
 
-Revelio is a strong copyright authentication tool that provides visualizable identification of copyright infringement during fine-tuning on diffusion models. Revelio accepts a half-masked image as input and exploits the conceptual difference between pretrained and fine-tuned models. A high visual similarity can be found when the input image is used during fine-tuning while a high discrepancy can be found when it is not used during fine-tuning. For more details about the methodology,  please refer to [our paper](https://arxiv.org/abs/????). It also discusses the importance of visual identification in the context of copyright authentication.
+Revelio is a strong copyright authentication tool that provides visualizable identification of copyright infringement during fine-tuning on diffusion models. Revelio accepts a half-masked image as input and exploits the conceptual difference between pretrained and fine-tuned models. A high visual similarity can be found when the input image is used during fine-tuning while a high discrepancy can be found when it is not used during fine-tuning. For more details about the methodology,  please refer to [our paper](https://arxiv.org/abs/2403.11162). It also discusses the importance of visual identification in the context of copyright authentication.
 
 
 
@@ -78,13 +78,13 @@ python Validator.py
 ## License
 
 This project is licensed under the Apache-2.0 license. 
-
+<!-- 
 ## Citation:
 
 ```
 @inproceedings{???
 }
-```
+``` -->
 
 
 
