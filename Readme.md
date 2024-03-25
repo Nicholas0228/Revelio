@@ -78,14 +78,18 @@ python Validator.py
 ## License
 
 This project is licensed under the Apache-2.0 license. 
-<!-- 
+
 ## Citation:
+If you find our work valuable and utilize it, we kindly request that you cite our paper.
 
 ```
-@inproceedings{???
+@article{wu2024cgi,
+  title={CGI-DM: Digital Copyright Authentication for Diffusion Models via Contrasting Gradient Inversion},
+  author={Wu, Xiaoyu and Hua, Yang and Liang, Chumeng and Zhang, Jiaru and Wang, Hao and Song, Tao and Guan, Haibing},
+  journal={arXiv preprint arXiv:2403.11162},
+  year={2024}
 }
-``` -->
-
+```
 
 
 
